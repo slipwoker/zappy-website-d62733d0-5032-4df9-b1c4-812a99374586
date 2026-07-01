@@ -1,0 +1,87 @@
+# הפועל תל אביב — Generative Engine Optimization Map
+
+> A fan website dedicated to Hapoel Tel Aviv FC, one of Israel's most iconic and beloved football clubs with a rich history and passionate fanbase. The club is associated with red and white colors and has deep cultural roots in Israeli sports culture. The site would celebrate the club's legacy, players, and community spirit.
+
+---
+
+## Pages
+
+### בית
+https://-d62733d0.zappy5.app
+ברוכים הבאים לאתר האוהדים של הפועל תל אביב – המועדון האדום עם ההיסטוריה המפוארת, הקהל החם והמורשת הבלתי נגמרת. הצטרפו לחגיגת האדום ולגיבורי הדשא!
+
+### סיפור המועדון
+https://-d62733d0.zappy5.app/club-story
+גלו את סיפור המועדון המרגש של הפועל תל אביב – מרגעי ההקמה, דרך הניצחונות הגדולים ועד למעמד האייקוני בתרבות הישראלית. היכנסו לפרק שכולו גאווה אדומה!
+
+### שחקנים ואגדות
+https://-d62733d0.zappy5.app/players-legends
+היכל התהילה של הפועל תל אביב נפתח בפניכם: סיפורי השחקנים הבלתי נשכחים, הכישרונות הנדירים והרגעים שהפכו לזיכרון נצחי. בואו לפגוש את הגיבורים באדום!
+
+### תרבות אוהדים
+https://-d62733d0.zappy5.app/fan-culture
+תרבות האוהדים של הפועל תל אביב היא עולם שלם של שירה, צבע ואמונה. צללו אל השורשים, המנהגים והאנרגיה שהופכים כל משחק לחוויה מחשמלת. הדופק האדום מחכה לכם!
+
+### צור קשר
+https://-d62733d0.zappy5.app/contact
+יש לכם שאלה, רעיון או סתם רצון להרגיש את האדום מקרוב? צרו קשר עם צוות אתר האוהדים של הפועל תל אביב ונחזור אליכם במהירות עם כל התשובות!
+
+### תודה שפניתם אלינו
+https://-d62733d0.zappy5.app/thank-you
+הפועל תל אביב - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-d62733d0.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-d62733d0.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-d62733d0.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-d62733d0.zappy5.app/contact
+- Endpoint: https://-d62733d0.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About הפועל תל אביב
+A fan website dedicated to Hapoel Tel Aviv FC, one of Israel's most iconic and beloved football clubs with a rich history and passionate fanbase. The club is associated with red and white colors and has deep cultural roots in Israeli sports culture. The site would celebrate the club's legacy, players, and community spirit.
+
+## Target Audience
+- מעריצי קבוצת הפועל תל אביב
+- מעריצי הפועל תל אביב
+- חובבי ספורט צעירים
+- משפחות עם ילדים
+
+## Industry
+Sports / Football Club
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-d62733d0.zappy5.app/sitemap.xml
+- Robots: https://-d62733d0.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-d62733d0.zappy5.app/llms-full.txt
